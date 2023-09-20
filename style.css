@@ -1,0 +1,52 @@
+body {
+    background-color: #2c3e50; /* Dark Grey Background */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #3498db; /* Blue Text Color */
+}
+
+#container {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 700px;
+    padding: 20px;
+}
+
+#rounded-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%; /* Apply border-radius for rounded shape */
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 20px;
+}
+
+/* Style the image container */
+#image {
+    margin-bottom: 20px;
+}
+
+/* Style the title */
+h1 {
+    color: white; /* Blue Text Color */
+}
+
+/* Center the title */
+h1 {
+    text-align: center;
+}
+
+/* ... (your existing CSS rules) */
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    font-size: 30px; /* Adjust the font size to make the <li> elements bigger */
+    margin-bottom: 10px;
+}
