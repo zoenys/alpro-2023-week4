@@ -14,39 +14,36 @@ body {
 }
 
 #rounded-image {
-    max-width: 100%;
+    width: 90%;
     height: auto;
-    border-radius: 50%; /* Apply border-radius for rounded shape */
+    border-radius: 5%; /* Apply border-radius for rounded shape */
 }
 
 h1 {
     font-size: 36px;
     margin-top: 20px;
+    color: white; /* Blue Text Color */
 }
 
 /* Style the image container */
 #image {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 /* Style the title */
 h1 {
-    color: white; /* Blue Text Color */
+    color: white; /* White Text Color */
+    text-align: center; /* Center the title */
 }
 
-/* Center the title */
-h1 {
-    text-align: center;
-}
-
-/* ... (your existing CSS rules) */
-
+/* Style the <ul> and <li> elements */
 ul {
     list-style-type: none;
     padding: 0;
+    text-align: center; /* Align list items to the left */
 }
 
 li {
-    font-size: 30px; /* Adjust the font size to make the <li> elements bigger */
+    font-size: 29px; /* Adjust the font size for the <li> elements */
     margin-bottom: 10px;
 }
